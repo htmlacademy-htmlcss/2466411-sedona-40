@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Никита Усов](https://up.htmlacademy.ru/htmlcss/40/user/2466411).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
