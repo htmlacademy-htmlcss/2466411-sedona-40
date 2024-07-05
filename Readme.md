@@ -2,7 +2,7 @@
 
 * Студент: [Никита Усов](https://up.htmlacademy.ru/htmlcss/40/user/2466411).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
-
+* Сайт: [проект Седона Усов Н.Д](https://nikita-ysov.github.io/2466411-sedona-40/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
