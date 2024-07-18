@@ -592,10 +592,11 @@ body {
 .black-1-advantages,
 .black-2-advantages {
   padding: 112.5px 85px;
-
-  background-color: #83b3d31f;
+ background-color: #83b3d31f;
 }
-
+.black-2-advantages {
+  background-color:#83b3d338;
+}
 .advantages-comfort-item,
 .black-1-advantages-comfort {
   padding: 81px 85px;
