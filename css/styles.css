@@ -34,6 +34,7 @@ html {
 body {
   margin: 0;
   min-height: 100%;
+  min-width: 1200px;
 
   font-family: "PT Sans", sans-serif;
   font-size: 18px;
@@ -592,11 +593,13 @@ body {
 .black-1-advantages,
 .black-2-advantages {
   padding: 112.5px 85px;
- background-color: #83b3d31f;
+  background-color: #83b3d31f;
 }
+
 .black-2-advantages {
   background-color:#83b3d338;
 }
+
 .advantages-comfort-item,
 .black-1-advantages-comfort {
   padding: 81px 85px;
@@ -618,13 +621,12 @@ body {
 }
 
 .advantages-cause-text-head {
-  width: 620px;
+  width: 627px;
   margin: 0 auto;
   margin-bottom: 25px;
 }
 
 .advantages-cause-text {
-  width: 651px;
   margin: 0 auto;
   margin-bottom: 90px;
 }
