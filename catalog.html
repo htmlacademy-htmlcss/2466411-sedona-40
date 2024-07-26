@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Каталог</title>
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="icon" href="img/icons/search.svg">
+    <link rel="icon" sizes="32x32" href="favicon.ico">
   </head>
   <body>
     <div class="body-container">
@@ -55,7 +55,7 @@
       <div class="page-container">
         <!--Фильтр подбора гостиницы-->
 
-      <section class="filter"data-test="filter">
+      <section class="filter" data-test="filter">
         <header class="inner-header">
           <h1 class="inner-header-title">Гостиницы Седоны</h1>
           <ul class="breadcrumbs">
@@ -173,7 +173,7 @@
 
       <!--Сортировка-->
 
-      <section class="catalog"data-test="catalog">
+      <section class="catalog" data-test="catalog">
 
         <div class="select-container">
           <h2 class="visually-hidden">Поиск гостиниц</h2>
@@ -186,13 +186,13 @@
           </select>
 
           <div class="button-light-container">
-            <a class="button button-light button-light-cards button-light-active" href="#">
-              <span class="visually-hidden">Показать карточки</span>
+            <a class="button button-light button-light-cards button-light-active" href="catalog.html?view=tile">
+              <span class="visually-hidden">Показать плиткой</span>
             </a>
-            <a class="button button-light button-light-fully" href="#">
-              <span class="visually-hidden">Показать полностью</span>
+            <a class="button button-light button-light-fully" href="catalog.html?view=card">
+              <span class="visually-hidden">Показать карточку</span>
             </a>
-            <a class="button button-light button-light-list" href="#">
+            <a class="button button-light button-light-list" href="catalog.html?view=list">
               <span class="visually-hidden">Показать списком</span>
             </a>
           </div>
